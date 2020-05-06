@@ -13,6 +13,7 @@ def happy_birthday(birthday_kids)
     else
      puts greeting = false
     end
+    greeting = "Happy Birthday #{kids}! You are now #{age} years old!"
   end
-  greeting = "Happy Birthday #{kids}! You are now #{age} years old!"
+  
 end
