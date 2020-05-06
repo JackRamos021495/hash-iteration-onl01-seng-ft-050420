@@ -15,5 +15,5 @@ def happy_birthday(birthday_kids)
     end
     greeting = "Happy Birthday #{kids}! You are now #{age} years old!"
   end
-  
+
 end
